@@ -21,7 +21,7 @@ A lightweight C-based command-line tool for generating and parsing log files wit
 ### Build Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Log-File-Generator-and-Parser.git
+   git clone https://github.com/yunustechin/Log-File-Generator-and-Parser.git
    cd Log-File-Generator-and-Parser
    ```
 2. Build the project using the provided Makefile:
